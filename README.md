@@ -21,6 +21,14 @@ This project performs data wrangling, cleaning, visualization, and insight gener
 2. **COVID_VACCINATIONS.csv** (~50 MB) — Contains vaccination data from around the world.
 3. **COVID_GLOBAL_CASES.xlsx** (~33 MB) — Includes confirmed cases, deaths, and recoveries by country and date.
 
+![1](https://github.com/user-attachments/assets/65985786-bf8b-4c83-9ab2-095f2355e4c9)
+
+![2](https://github.com/user-attachments/assets/b8c79aa8-8e00-4440-9a4a-0ac6e8cc248e)
+
+![3](https://github.com/user-attachments/assets/7d3cb7ae-0ca2-4bc3-ad8f-d2b0cdebcdcf)
+
+![4](https://github.com/user-attachments/assets/f47374a0-d18f-491f-aba1-cf872e252b88)
+
 ![Top 10 Countries by COVID-19 Cases Over Years](https://github.com/user-attachments/assets/3b4e28e7-80fe-4ad4-93e0-4371c1242f43)
 
 ![Treemap – Total Cases by Continent   Country](https://github.com/user-attachments/assets/6391a053-68b3-4b20-ad29-8d2a6cfe0cfb)
